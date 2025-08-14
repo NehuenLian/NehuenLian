@@ -20,5 +20,5 @@ Working on backend systems, data flow and architecture. End to end.
 ---
 
 ### 📁 Projects  
-🔹 [Invoice Service](https://github.com/NehuenLian/INVOICE_SERVICE) – Middleware for AFIP/ARCA billing system in Argentina  
-🔹 [POS Desktop](https://github.com/NehuenLian/POS_Desktop) – Desktop Point of Sale application in Python  
+🔹 [POS Desktop](https://github.com/NehuenLian/Lotus-POS-Fiscal-Integration) – Desktop Point of Sale application in Python  
+🔹 [Invoice Service](https://github.com/NehuenLian/Electronic_invoice_service) – Middleware for AFIP/ARCA billing system in Argentina  
