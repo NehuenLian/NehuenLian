@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://my-github-readme-stats-eta.vercel.app/api/top-langs/?username=NehuenLian&layout=compact&theme=tokyonight&hide=jupyter%20notebook&count_private=true&exclude_repo=my-github-readme-stats,Django-Crud-App,POS-System-Retail,POS-Software-For-Retail,POS_MVP_procedural,CRUD,login-template-headers-http,AFRelay-docs" alt="Top Languages" />
+  <img src="https://my-github-readme-stats-eta.vercel.app/api/top-langs/?username=NehuenLian&layout=compact&theme=tokyonight&hide=jupyter%20notebook&count_private=true&exclude_repo=POS-System-Retail,POS-Software-For-Retail,POS_MVP_procedural,AFRelay-docs,linux-dotfiles,actividad-final-academia-forit,prueba-tecnica-for-it" alt="Top Languages" />
 </p>
 
 #
