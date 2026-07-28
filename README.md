@@ -1,16 +1,17 @@
-## Hi there 👋
+### “The belief that complex systems require armies of designers and programmers is wrong. A system that is not understood in its entirety, or at least to a significant degree of detail by a single individual, should probably not be built.”
 
-<!--
-**NehuenLian/NehuenLian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+
+<br><br>
+
+```  C  ```  ```  C++  ```  ```  python  ```  
+```  Operating Systems  ```  
+```  Data structures & Algorithms  ```
+
+</div>
+
+<br><br>
+
+Contact: nehuenlian@proton.me
