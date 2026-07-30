@@ -6,7 +6,7 @@
 
 <br><br>
 
-```  C  ```  ```  C++  ```  ```  python  ```  
+```  C/C++  ```  ```  python  ```  
 ```  Operating Systems  ```  
 ```  Data structures & Algorithms  ```
 
